@@ -1270,8 +1270,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 56.7, y: -83.8}
-  m_SizeDelta: {x: 124.596985, y: 46.42801}
+  m_AnchoredPosition: {x: 65, y: -95.2}
+  m_SizeDelta: {x: 112.29, y: 58.734}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1116393637
 MonoBehaviour:
@@ -1293,7 +1293,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u9B54\u738B\u9B42"
+  m_text: "SE\n\u52B9\u679C\u97F3\u30E9\u30DC\n\u9B54\u738B\u9B42"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a6de5aa0d9239a4c8c820a35ad6d2d6, type: 2}
   m_sharedMaterial: {fileID: -8693304158189571850, guid: 4a6de5aa0d9239a4c8c820a35ad6d2d6, type: 2}
@@ -1320,15 +1320,15 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 17.5
+  m_fontSizeBase: 17.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_fontStyle: 1
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -1984,8 +1984,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 126.075, y: -19.453}
-  m_SizeDelta: {x: 229.5, y: 29.904}
+  m_AnchoredPosition: {x: 137.518, y: -35.088}
+  m_SizeDelta: {x: 252.387, y: 61.173}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1871321651
 MonoBehaviour:
@@ -2034,14 +2034,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.6
-  m_fontSizeBase: 17.6
+  m_fontSize: 17.5
+  m_fontSizeBase: 17.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_fontStyle: 1
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
