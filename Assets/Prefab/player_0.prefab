@@ -193,7 +193,7 @@ MonoBehaviour:
   maxjumptime: 0.25
   miniforce: 35
   centforce: 45
-  maxforce: 60
+  maxforce: 61
   JumpTimeLimit: 5
   JumpSpeed: 5
   JumpHeight: 12
